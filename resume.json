@@ -1,118 +1,120 @@
 {
   "basics": {
-    "name": "Steven Edouard",
+    "name": "William S. O'Dell",
     "label": "Software Engineer",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Advocate for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "picture": "",
+    "email": "william.s.odell@gmail.com",
+    "website": "http://williamsodell.com",
+    "summary": "I am a Developer who learns fast, is highly motivated, works well under pressure, and adapts easily to changing environments.",
     "location": {
-      "city": "San Francisco",
+      "city": "Salt Lake City",
       "countryCode": "US",
-      "region": "California"
+      "region": "Utah"
     },
     "profiles": [
       {
         "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
+        "url": "http://github.com/williamsodell/resume",
         "username": "This Resume is built from this Github Repo"
       },
       {
         "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
+        "username": "williamsodell",
+        "url": "http://twitter.com/williamsodell"
       },
       {
         "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "username": "williamsodell",
+        "url": "https://github.com/williamsodell"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer",
-      "website": "http://microsoft.com",
-      "startDate": "2015-03-16",
-      "summary": "Technical Evangelism and Development - Strategic Engagements",
+      "company": "Progrexion",
+      "position": "Software Engineer",
+      "website": "http://www.progrexion.com",
+      "startDate": "2012-04-01",
+      "summary": "",
       "highlights": [
-        "Responsible for building reusable solutions with Microsoft partners to drive attention and usage to Microsoft products and technologies."
+        "Developed and maintained marketing and client sites for multiple brands that handle millions of visitors every day.",
+        "Developed hybrid Android and iPhone apps used by clients.",
+        "Maintained server environments."
+      ]
+    },
+      {
+        "company": "BnC Group LLC.",
+        "position": "Owner & Software Engineer",
+        "website": "http://www.bncstudios.co",
+        "startDate": "2014-06-01",
+        "summary": "",
+        "highlights": [
+          "Developed client software.",
+          "Maintained server environments."
+        ]
+      },
+    {
+      "company": "Xennsoft",
+      "position": "Software Developer",
+      "website": "https://xennsoft.com",
+      "startDate": "2011-09-01",
+      "endDate": "2012-04-01",
+      "summary": "",
+      "highlights": [
+        "Developed and maintained client portals.",
+        "Continued development of custom content management system and online store."
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "company": "Ingage Creative Group",
+      "position": "Lead Software Engineer",
+      "website": "http://ingagecreative.com",
+      "startDate": "2011-01-01",
+      "endDate": "2012-04-01",
+      "summary": "",
       "highlights": [
-        "Drove Azure usage by Student and Startup Developers",
-        "Worked with various Y-Combinator startups to bring linux workloads to Azure",
-        "Delivered Technical Presentations at Various conferences such as TC Disrupt SF, NodeConf Oakland, Stanford & Berkeley Hackathons",
-        "Created various technical content centered around open source on Azure such as blog posts and technical projects"
+        "Developed and maintained client websites and custom software.",
+        "Continued development of custom content management system used for all client websites.",
+        "Maintained server environments.",
+        "Aided in sales and customer relations."
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "company": "ThomasARTS",
+      "position": "Software Engineer - Lead Software Engineer",
+      "website": "http://www.thomasarts.com",
+      "startDate": "2008-08-01",
+      "endDate": "2011-09-01",
+      "summary": "",
       "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
-      ]
-    },
-    {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
-      "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
+        "Developed and maintained client websites and custom software.",
+        "Architected and developed 2 custom content management systems (PHP and .Net) used for all client websites.",
+        "Co-programmed proprietary lead generation software responsible for substantial agency revenue.",
+        "Maintained server environments.",
+        "Remained flexible and focused while managing a heavy workload containing highly varied projects."
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "TEALS",
-      "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
-      "highlights": [
-        "Featured in the International New York Times"
-      ]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
+      "institution": "Neumont University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2006-09-01",
+      "endDate": "2008-12-01",
       "gpa": "3.47"
-    }
-  ],
-  "awards": [
+    },
     {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "institution": "Salt Lake Community College",
+      "area": "Mechanical Engineering",
+      "studyType": "Associate of Pre-Engineering",
+      "startDate": "2013-09-01",
+      "gpa": "3.00"
     }
   ],
+  "awards": [],
+  "publications": [],
   "skills": [
     {
       "name": "C# and .NET",
@@ -151,5 +153,7 @@
       "language": "English",
       "fluency": "Native speaker"
     }
-  ]
+  ],
+  "interests": [],
+  "references": []
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Steven-Resume",
-  "version": "0.0.0",
-  "description": "Azure TED Continous Integration Demo",
+  "name": "WilliamSODell-Resume",
+  "version": "1.0.0",
+  "description": "Resume for William S. O'Dell",
   "main": "app.js",
   "author": {
-    "name": "sedouard",
+    "name": "williamsodell",
     "email": ""
   },
   "scripts" : {
