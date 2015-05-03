@@ -2,8 +2,7 @@
   "basics": {
     "name": "William S. O'Dell",
     "label": "Software Engineer",
-    "picture": "",
-    "email": "william.s.odell@gmail.com",
+    "email": "william.s.odell+resume@gmail.com",
     "website": "http://williamsodell.com",
     "summary": "I am a Developer who learns fast, is highly motivated, works well under pressure, and adapts easily to changing environments.",
     "location": {
@@ -121,23 +120,6 @@
       "level": "Master",
       "keywords": [
         "C#"
-      ]
-    },
-    {
-      "name": "Node.js",
-      "level": "Intermediate",
-      "keywords": [
-        "javascript",
-        "express"
-      ]
-    },
-    {
-      "name": "Cloud Services",
-      "level": "Master",
-      "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
       ]
     },
     {
