@@ -101,15 +101,13 @@
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2006-09-01",
-      "endDate": "2008-12-01",
-      "gpa": "3.47"
+      "endDate": "2008-12-01"
     },
     {
       "institution": "Salt Lake Community College",
       "area": "Mechanical Engineering",
       "studyType": "Associate of Pre-Engineering",
-      "startDate": "2013-09-01",
-      "gpa": "3.00"
+      "startDate": "2013-09-01"
     }
   ],
   "awards": [],
